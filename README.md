@@ -50,9 +50,9 @@ Verified the file content was recovered successfully.
 - Block public access to reduce security risks.
 - Maintain backups and version history to support business continuity.
 
-**Author:** Njabulo 
 
 
+**AWS S3 Cloud Storage Lab Architecture**  
 
 
 ![image Alt](https://github.com/iamnjebs/mzuca-cloud-storage-lab-bhakede/blob/main/Architecture%20mzu-cloud-storage-lab-njabulo.JPG?raw=true)
